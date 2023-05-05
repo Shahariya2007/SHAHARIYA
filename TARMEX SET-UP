@@ -1,2 +1,57 @@
 # SHAHARIYA
 Assalamualaikum 
+My Setup & Packages
+
+1-)pdate Termux Packages
+
+© pkg update
+
+© pkg upgrade
+
+2-)Clean up packages
+
+© pkg autoclean
+
+© pkg clean
+
+3-)Termux Update Package Mirrobr Servers -
+
+® https://github.com/termux/termux-
+
+© packages/wiki/Mirrors
+
+© termux-change-repo
+
+4-)pkg install curl
+
+© Install git
+
+5-)pkg install git
+
+© Install wget
+
+6-)pkg install wget
+
+© install Zip
+
+7-)pkg install zip
+
+©install unZip
+
+8-)pkg install unzip
+
+© Install python3 & python2
+
+(https://wiki.termux.com/wiki/Python)
+
+9-) Python2
+
+© pkg Install python2
+
+10-)Python3
+
+© pkg install python
+
+11-)Install Nodejs
+
+© pkg install nodejs
